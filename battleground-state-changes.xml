@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Sat, 07 Nov 2020 01:29:03 -0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2020 01:41:25 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +51382</description>
    <pubDate>Wed, 04 Nov 2020 18:40:57 -0000</pubDate>
@@ -16,14 +16,14 @@
    <guid isPermaLink="false">arizona@1604712543.038</guid>
   </item>
   <item>
-   <description>Georgia (EV: 16): Biden +4033</description>
-   <pubDate>Sat, 07 Nov 2020 01:29:03 -0000</pubDate>
-   <guid isPermaLink="false">georgia@1604712543.038</guid>
+   <description>Georgia (EV: 16): Biden +4020</description>
+   <pubDate>Sat, 07 Nov 2020 01:41:25 -0000</pubDate>
+   <guid isPermaLink="false">georgia@1604713285.877</guid>
   </item>
   <item>
-   <description>North Carolina (EV: 15): Trump +76526</description>
-   <pubDate>Sat, 07 Nov 2020 00:46:31 -0000</pubDate>
-   <guid isPermaLink="false">north-carolina@1604709991.741</guid>
+   <description>North Carolina (EV: 15): Trump +76515</description>
+   <pubDate>Sat, 07 Nov 2020 01:41:25 -0000</pubDate>
+   <guid isPermaLink="false">north-carolina@1604713285.877</guid>
   </item>
   <item>
    <description>Nevada (EV: 6): Biden +22657</description>
@@ -31,9 +31,9 @@
    <guid isPermaLink="false">nevada@1604705345.649</guid>
   </item>
   <item>
-   <description>Pennsylvania (EV: 20): Biden +19491</description>
-   <pubDate>Sat, 07 Nov 2020 01:06:18 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1604711178.371</guid>
+   <description>Pennsylvania (EV: 20): Biden +20378</description>
+   <pubDate>Sat, 07 Nov 2020 01:41:25 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1604713285.877</guid>
   </item>
  </channel>
 </rss>
