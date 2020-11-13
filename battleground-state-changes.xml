@@ -4,16 +4,16 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Fri, 13 Nov 2020 00:01:24 -0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2020 00:44:45 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +44650</description>
    <pubDate>Thu, 12 Nov 2020 16:45:22 -0000</pubDate>
    <guid isPermaLink="false">alaska@1605199522.414</guid>
   </item>
   <item>
-   <description>Arizona (EV: 11): Biden +11390</description>
-   <pubDate>Thu, 12 Nov 2020 21:46:24 -0000</pubDate>
-   <guid isPermaLink="false">arizona@1605217584.532</guid>
+   <description>Arizona (EV: 11): Biden +11034</description>
+   <pubDate>Fri, 13 Nov 2020 00:44:45 -0000</pubDate>
+   <guid isPermaLink="false">arizona@1605228285.185</guid>
   </item>
   <item>
    <description>Georgia (EV: 16): Biden +14102</description>
@@ -21,9 +21,9 @@
    <guid isPermaLink="false">georgia@1605225684.553</guid>
   </item>
   <item>
-   <description>North Carolina (EV: 15): Trump +73077</description>
-   <pubDate>Thu, 12 Nov 2020 23:22:44 -0000</pubDate>
-   <guid isPermaLink="false">north-carolina@1605223364.611</guid>
+   <description>North Carolina (EV: 15): Trump +72719</description>
+   <pubDate>Fri, 13 Nov 2020 00:44:45 -0000</pubDate>
+   <guid isPermaLink="false">north-carolina@1605228285.185</guid>
   </item>
   <item>
    <description>Nevada (EV: 6): Biden +36866</description>
