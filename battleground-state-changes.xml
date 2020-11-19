@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Thu, 19 Nov 2020 15:34:51 -0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2020 16:32:12 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +35906</description>
    <pubDate>Thu, 19 Nov 2020 13:22:12 -0000</pubDate>
@@ -12,8 +12,8 @@
   </item>
   <item>
    <description>Arizona (EV: 11): Biden +10457</description>
-   <pubDate>Mon, 16 Nov 2020 18:53:53 -0000</pubDate>
-   <guid isPermaLink="false">arizona@1605552833.155</guid>
+   <pubDate>Thu, 19 Nov 2020 16:32:12 -0000</pubDate>
+   <guid isPermaLink="false">arizona@1605803532.936</guid>
   </item>
   <item>
    <description>Georgia (EV: 16): Biden +14056</description>
